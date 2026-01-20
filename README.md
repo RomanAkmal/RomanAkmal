@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- Animated GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400"/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <!-- About Section with GIF -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2c8ce6c5f61571c2eb2b61224fe9/raw/88624e8d31c4295973dcb7c900dacf59386c623b/coding.gif" width="350"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me
 
@@ -82,17 +82,19 @@ const roman = {
 <!-- Tech Stack with Animation -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> Tech Arsenal
 
 <br/>
 
-<!-- Animated Tech Icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7571-4e2f-b1e6-4e2c4b08a06c.gif" width="75"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="75"/>
+<!-- Animated Tech Icons Row -->
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 
 <br/><br/>
 
@@ -143,14 +145,14 @@ const roman = {
 <!-- Services Section -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"/> What I Build
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> What I Build
 
 <br/>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
 <br/><br/>
 <b>🌐 Web Apps</b>
 <br/><br/>
@@ -159,7 +161,7 @@ const roman = {
 <img src="https://img.shields.io/badge/From_$1,500-6b21a8?style=flat-square"/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
 <br/><br/>
 <b>📄 Landing Pages</b>
 <br/><br/>
@@ -168,7 +170,7 @@ const roman = {
 <img src="https://img.shields.io/badge/From_$150-6b21a8?style=flat-square"/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80"/>
 <br/><br/>
 <b>🛒 E-Commerce</b>
 <br/><br/>
@@ -177,7 +179,7 @@ const roman = {
 <img src="https://img.shields.io/badge/Custom_Quote-6b21a8?style=flat-square"/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/>
 <br/><br/>
 <b>⚡ Optimization</b>
 <br/><br/>
@@ -201,11 +203,11 @@ const roman = {
 <!-- Contact Section -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752571-a07a-4602-8ee4-61f4e181232c.png" width="30"/> Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="120"/>
 
 <br/><br/>
 
