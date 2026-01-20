@@ -1,167 +1,175 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Roman%20Akmal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Roman%20Akmal&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Islamabad,%20Pakistan&descSize=16&descAlignY=52&descColor=8b949e" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Building+beautiful%2C+performant+web+experiences;From+idea+to+deployment" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+beautiful+web+experiences;From+idea+to+deployment;Clean+code+%7C+Modern+stack+%7C+Fast+delivery" alt="Typing SVG" /></a>
+<!-- Quick Links -->
+<a href="https://romanakmal.dev"><img src="https://img.shields.io/badge/romanakmal.dev-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.youtube.com/@romanakmaldev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.instagram.com/romanakmal.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/romanakmaldev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-romanakmal.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://romanakmal.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-@romanakmaldev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@romanakmaldev)
-[![Instagram](https://img.shields.io/badge/Instagram-@romanakmal.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romanakmal.dev)
-[![Twitter](https://img.shields.io/badge/X-@romanakmaldev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/romanakmaldev)
-
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=RomanAkmal&label=Profile%20Views&color=1a1a2e&style=for-the-badge" alt="Profile Views"/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=RomanAkmal&style=flat-square&color=161b22&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanAkmal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&card_width=320" width="320"/>
+
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+I'm a **Full Stack Developer** passionate about building clean, performant web applications.
 
 ```javascript
 const roman = {
-  location: "Islamabad, Pakistan",
-  role: "Full Stack Developer",
-  focus: "Building performant & accessible web experiences",
-  available: true,
-  
-  currentlyBuilding: "Client projects & expanding portfolio",
-  learning: ["System Design", "Cloud Architecture", "AI Integration"],
-  
-  funFact: "I debug with console.log and I'm proud of it"
+  code: ["TypeScript", "JavaScript", "Python", "C++"],
+  technologies: {
+    frontend: ["React", "Next.js", "Astro", "Tailwind"],
+    backend: ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+    tools: ["Git", "Docker", "Figma", "VS Code"]
+  },
+  currentFocus: "Building client projects & growing my freelance business",
+  funFact: "I debug with console.log and I'm proud of it 😄"
 };
 ```
 
-I'm a passionate full-stack developer who loves turning complex problems into simple, beautiful solutions. I build modern web applications using **React**, **Next.js**, **Node.js**, and **TypeScript** — creating scalable solutions that drive real business value.
-
-When I'm not coding, you'll find me sharing knowledge through my **YouTube** and **Instagram**, helping other developers level up their skills.
-
-<br/>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
-
+<!-- Snake Animation -->
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🐍 Watch the snake eat my contributions!
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake.svg" />
+</picture>
 
 </div>
 
-<br/>
-
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RomanAkmal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAkmal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="165"/>
+**Languages**
 
-<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomanAkmal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/RomanAkmal)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+### 💼 What I Build
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🌐 Web Apps**
+<br/><br/>
+Full-stack applications with React, Next.js & Node.js
+<br/><br/>
+`From $1,500`
+
+</td>
+<td align="center" width="25%">
+
+**📄 Landing Pages**
+<br/><br/>
+High-converting, SEO-optimized pages that load fast
+<br/><br/>
+`From $150`
+
+</td>
+<td align="center" width="25%">
+
+**🛒 E-Commerce**
+<br/><br/>
+Shopify, WooCommerce & custom solutions
+<br/><br/>
+`Custom Quote`
+
+</td>
+<td align="center" width="25%">
+
+**⚡ Optimization**
+<br/><br/>
+Performance, SEO & accessibility audits
+<br/><br/>
+`From $100`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RomanAkmal&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/RomanAkmal)
-
-</div>
-
-<br/>
-
----
-
-## 💼 Services
-
-<div align="center">
-
-| 🌐 **Full-Stack Web Apps** | 📄 **Landing Pages** | 🛒 **WordPress / Shopify** | ⚡ **Web Optimization** |
-|:---:|:---:|:---:|:---:|
-| Custom web applications with modern technologies | High-converting, SEO-optimized pages | Custom themes & e-commerce solutions | Performance, SEO & accessibility |
-
-</div>
-
-<br/>
-
----
-
-## 🤝 Let's Connect
+### 📫 Let's Work Together
 
 <div align="center">
 
 **Open to freelance projects and full-time opportunities**
 
-Have a project in mind? Let's build something amazing together.
-
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-romanakmal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanakmal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-romanakmal.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://romanakmal.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923098601867-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923098601867)
+<a href="mailto:romanakmal@gmail.com"><img src="https://img.shields.io/badge/Email-romanakmal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/923098601867"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://romanakmal.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+*💬 Replies within 24 hours*
 
 </div>
 
-<br/>
+---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
-<!--
-**RomanAkmal/RomanAkmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
