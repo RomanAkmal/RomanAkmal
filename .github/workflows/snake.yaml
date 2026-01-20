@@ -1,4 +1,4 @@
-# GitHub Action for generating a snake animation from contribution graph
+# GitHub Action for generating a purple snake animation from contribution graph
 name: Generate Snake
 
 on:
@@ -21,13 +21,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Purple Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#a855f7&color_dots=#1a0533,#581c87,#6b21a8,#7c3aed,#a855f7
+            dist/github-snake-dark.svg?color_snake=#a855f7&color_dots=#1a0533,#581c87,#6b21a8,#7c3aed,#a855f7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
