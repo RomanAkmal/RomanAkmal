@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Purple Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6b21a8,100:a855f7&height=200&section=header&text=Roman%20Akmal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Islamabad,%20Pakistan&descSize=18&descAlignY=55&descColor=e9d5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6b21a8,100:a855f7&height=200&section=header&text=Roman%20Akmal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Basingstoke,%20United%20Kingdom&descSize=18&descAlignY=55&descColor=e9d5ff" width="100%"/>
 
 <br/>
 
 <!-- Animated Coding GIF -->
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <!-- About Section with GIF -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me
 
@@ -39,7 +39,7 @@ Hey! I'm **Roman**, a passionate Full Stack Developer who loves turning complex 
 
 ```javascript
 const roman = {
-  location: "📍 Islamabad, Pakistan",
+  location: "📍 Basingstoke, United Kingdom",
   role: "🚀 Full Stack Developer",
   available: "✅ Open for opportunities",
   
