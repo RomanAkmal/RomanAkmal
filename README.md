@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="400"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <!-- About Section with GIF -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me
 
