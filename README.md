@@ -23,17 +23,17 @@
 
 <br/><br/>
 
-<!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
 <br/>
 
-<!-- About Section with GIF -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 Hey! I'm **Roman**, a passionate Full Stack Developer who loves turning complex problems into simple, beautiful solutions.
 
@@ -42,15 +42,22 @@ const roman = {
   location: "📍 Basingstoke, United Kingdom",
   role: "🚀 Full Stack Developer",
   available: "✅ Open for opportunities",
-  
+
   passion: "Building performant & accessible web apps",
   currently: "Growing my freelance business",
-  
+
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
 ```
 
-<br clear="both"/>
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
@@ -66,8 +73,13 @@ const roman = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake.svg" />
+  <img alt="Roman Akmal's contribution snake" src="https://raw.githubusercontent.com/RomanAkmal/RomanAkmal/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<br/><br/>
+
+<!-- Real contribution activity, so the snake and the numbers agree -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAkmal&theme=highcontrast&hide_border=true&background=0D1117&stroke=6b21a8&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=8b949e" alt="Contribution streak" width="70%"/>
 
 </div>
 
@@ -86,7 +98,6 @@ const roman = {
 
 <br/>
 
-<!-- Animated Tech Icons Row -->
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
@@ -225,7 +236,6 @@ const roman = {
 
 <br/><br/>
 
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=RomanAkmal&style=for-the-badge&color=6b21a8&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
